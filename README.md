@@ -8,7 +8,7 @@ Application template for Python Django with pipenv.
 ## Dependency
 
 * Pyenv
-* Python 3.7
+* Python 3.6
 * Django 2
 * Pipenv
 
@@ -27,3 +27,9 @@ brew install pipenv
 ```
 
 ## Pipenv memo
+
+Initialize `Pipfile`
+
+```
+pipenv --python 3.6
+```
