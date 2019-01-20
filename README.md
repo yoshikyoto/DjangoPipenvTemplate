@@ -34,8 +34,8 @@ Initialize `Pipfile`
 pipenv --python 3.6
 ```
 
-Add djanog into Pipfile
+Add djanog to Pipfile
 
 ```
-pipenv install django
+pipenv install django~=2.1.5
 ```
